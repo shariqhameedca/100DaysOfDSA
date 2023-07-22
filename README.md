@@ -19,7 +19,7 @@ I invite all fellow coding enthusiasts, developers, and learners to join me on t
 If you're interested in contributing to this repository, please don't hesitate to reach out to me. Contributions, improvements, and alternative solutions are always welcome!
 
 ## Let's Connect
-I'm excited to share my progress with you throughout this challenge. Connect with me on LinkedIn (Shariq Hameed) to stay updated on my daily coding solutions and engage in insightful discussions.
+I'm excited to share my progress with you throughout this challenge. Connect with me on LinkedIn (<a href="https://www.linkedin.com/in/shariqhameed/">Shariq Hameed</a>) to stay updated on my daily coding solutions and engage in insightful discussions.
 
 Let's make the next 100 days count and embark on an incredible coding adventure together! 🚀
 
