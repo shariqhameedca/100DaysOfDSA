@@ -10,9 +10,9 @@ The main objective of this challenge is to enhance my problem-solving skills, de
 ## Repository Structure
 This repository is organized as follows:
 
-<b>/dayX:</b> Each day's code solution will be placed in a separate folder, labeled as "day-X" where "X" represents the day number of the challenge.
-<b>/dayX/problem.md:</b> This file contains the problem statement for the respective day's coding challenge.
-<b>/dayX/solution.py:</b> Here, you will find my solution to the coding problem in the form of a Python script.
+<b>/dayX:</b> Each day's code solution will be placed in a separate folder, labeled as "day-X" where "X" represents the day number of the challenge. <br>
+<b>/dayX/problem.md:</b> This file contains the problem statement for the respective day's coding challenge. <br>
+<b>/dayX/solution.py:</b> Here, you will find my solution to the coding problem in the form of a Python script. <br>
 ## Join Me on this Journey
 I invite all fellow coding enthusiasts, developers, and learners to join me on this coding journey. Whether you're a seasoned programmer or just starting out, your participation and support are highly appreciated. Let's learn from each other, inspire one another, and grow together as a community of passionate programmers.
 
