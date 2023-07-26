@@ -4,7 +4,7 @@ On the 4th day of my #100DaysOfDSA challenge, I covered recursion and the basic 
 ## Recursion:
 Recursion is the process of calling a function within a function until a base condition is met.
 <br><br>
-I learned about stack overflow, call stack and also auxillary space.
+I learned about stack overflow, call stack and also auxilliary space.
 <br><br>
 Then I solved basic questions relating to recursion like:
 1. Print numbers from 1 to n
