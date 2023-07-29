@@ -12,6 +12,6 @@ Merge Sort is a popular sorting algorithm that follows the Divide and Conquer ap
 <b>Time Complexity:</b> O(n log n)<br>
 <b>Space Complexity:</b> O(1) <br>
 
-Quick Sort is another efficient sorting algorithm based on the Divide and Conquer technique. It selects a pivot element, partitions the array around the pivot, and recursively sorts the subarrays on either side of the pivot. The average case time complexity of Quick Sort is O(n log n), but it can degrade to O(n^2) in the worst case if the pivot selection is not optimal. Quick Sort generally has lower space complexity than Merge Sort.
+Quick Sort is another efficient sorting algorithm based on the Divide and Conquer technique. It selects a pivot element, partitions the array around the pivot, and recursively sorts the subarrays on either side of the pivot. The average case time complexity of Quick Sort is O(n log n). Quick Sort generally has lower space complexity than Merge Sort.
 <br><br>
 Checkout the codes for practice.
