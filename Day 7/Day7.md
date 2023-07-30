@@ -1,4 +1,4 @@
-# 🎉 Day 6: Sorting II 🎉
+# 🎉 Day 7: Sorting II 🎉
 
 On the 7th day of my #100DaysOfDSA challenge, I covered merge sort and quick sort.
 <br>
