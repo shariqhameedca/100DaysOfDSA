@@ -1,7 +1,7 @@
 # 🎉 Day 8: Array Problems [EASY] 🎉
 
 On the 8th day of my #100DaysOfDSA challenge, I solved different array questions from the easy class.
-<br>
+<br><br>
 Following are the problems and the corresponding time and space complexities of my solutions.
 ### Find the largest element in an array:
 <b>Time Complexity:</b> O(n)<br>
