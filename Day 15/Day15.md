@@ -11,7 +11,7 @@ arr = [1,1,4,4,4,1,1,1]<br>
 Time complexity: O(n)<br>
 Space complexity: O(1)
 
-### The first problem was to find the maximum sub array sum.
+### The second problem was to find the maximum sub array sum.
 I solved the problem using Kadane's Algorithm <br><br>
 Let's take an array, <br>
 arr = [-2, -3, 4, -1, -2, 1, 5, -3]<br><br>
