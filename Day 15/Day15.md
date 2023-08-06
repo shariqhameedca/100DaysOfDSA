@@ -1,4 +1,4 @@
-🎉 Day 15: Array Problems [MEDIUM] 🎉
+🎉 Day 15: Array Problems [MEDIUM] 🎉<br>
 On the 15th day of my #100DaysOfDSA challenge, I solved two challenges related to arrays
 
 ### The first problem was to find the majority element in an array that appears more than n/2 times.
